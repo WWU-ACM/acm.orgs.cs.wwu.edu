@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>ACM@WWU</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118141915-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-118141915-1');
+    </script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#b-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top"><!--<img class="brandlogo"src="img/logos/wwuacmlogo.png" alt="WWUACM Logo">--></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">What We Do</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="#upcoming">Events</a>
+                    </li>
+<!--
+					<li>
+						<a class="page-scroll" href="#news">News</a>
+					</li>
+-->
+<!--
+					<li>
+                        <a class="page-scroll" href="#successStories">Things We've Done</a>
+                    </li>
+-->
+<!--
+                    <li>
+                        <a class="page-scroll" href="#team">Our Team</a>
+                    </li>
+-->
+<!--
+                    <li>
+                        <a class="page-scroll" href="#joinUS">Join us</a>
+		            </li>
+-->
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text" style="text-shadow: 0 1px 3px rgba(0,0,0,.4),0 0 30px rgba(0,0,0,.075);">
+                <div class="intro-lead-in">ACM @ WWU</div>
+                <div class="intro-heading"> </div>
+               <!--  <a href="#upcoming" class="page-scroll btn btn-xl">Learn More</a> -->
+            </div>
+        </div>
+    </header>
+
+	<!-- What We Do Section -->
+    <div id="services" aria-labelledby="Services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">What we do</h1>
+                    <hr>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-3">
+                    <h2 class="service-heading">Guest Lectures</h2>
+                    <p class="text-muted">We invite speakers from tech companies to talk to you about the latest technologies, and provide career opportunities. </p>
+                </div>
+                <div class="col-md-3">
+                    <h2 class="service-heading">Networking</h2>
+                    <p class="text-muted">We can connect you with our Alumnis from companies such as Microsoft, Amazon, Faithlife/Logos and many more.</p>
+                </div>
+                <div class="col-md-3">
+                    <h2 class="service-heading">Mentors</h2>
+                    <p class="text-muted">Hard programming assignment?<br> ACM Mentors are here to guide you.<br>
+                        Monday through Thursday in CF 164 <br>4PM to 7PM
+                    <br>
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <h2 class="service-heading">Events</h2>
+                    <p class="text-muted">We host events such as the End of the year departmental BBQ, Hackathons, and more!</p>
+                </div>
+                <br>
+                <br>
+            </div>
+        </div>
+    </div>
+
+	<!-- Upcoming Events Section -->
+    <!-- Timeline example: http://bootsnipp.com/snippets/featured/timeline -->
+    <div id="upcoming" aria-labelledby="Upcoming">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading" id="Upcoming">No events over Summer, enjoy your break!</h2>
+                </div>
+            </div>
+	</div>
+</div>
+<!--
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li class="timeline">
+                            <div class="timeline-image">
+                                <h4>Tue. Jan 31</h4>
+                            </div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">Interview Workshop</h4>
+                                </div>
+                                <div class="timeline-body">
+
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+								<h4>Thurs. Feb 9</h4>
+							</div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">ACM Fast Enterprises Talk<br />5-6pm</h4>
+                                </div>
+                                <div class="timeline-body"></p>
+                                </div>
+                            </div>
+                        </li>
+						<li class="timeline">
+                            <div class="timeline-image">
+								<h4>Tue. Feb 14</h4>
+							</div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">Potluck & Board Games</h4>
+                                </div>
+                                <div class="timeline-body">
+                                </div>
+                            </div>
+                        </li>
+						<li class="timeline-inverted">
+                            <div class="timeline-image">
+								<h4>Tue. Feb 28</h4>
+							</div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">Movie Night</h4>
+                                </div>
+                                <div class="timeline-body"></p>
+                                </div>
+                            </div>
+                        </li>
+						<li class="timeline">
+                            <div class="timeline-image">
+								<h4>Tue. March 7</h4>
+							</div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">Trivia Night</h4>
+                                </div>
+                                <div class="timeline-body">
+                                </div>
+                            </div>
+                        </li>
+						<li class="timeline-inverted">
+                            <div class="timeline-image">
+								<h4>Spring 2017</h4>
+							</div>
+                            <div class="timeline-panel bg-light-gray" style="padding-top: 20px;">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">2017 Hackathon</h4>
+                                </div>
+                                <div class="timeline-body"></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline">
+                            <div class="timeline-image">
+                                <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
+                            </div>
+                        </li>
+					</ul>
+                </div>
+            </div>
+
+        </div>
+    </section>
+-->
+
+	<!-- (Inactive) News Section
+
+	<section id="news">
+		<div class="conatiner">
+			<div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">News</h2>
+                    <h3 class="section-subheading text-muted">News and information pertaining to the WWU ACM Chapter</h3>
+                </div>
+            </div>
+		</div>
+	</section>
+  -->
+
+
+    <!-- (Inactive) Officers Needed Section -->
+    <!--
+    <section id="officers" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Officers Needed</h2>
+                    <h3 class="section-subheading text-muted" style="margin-bottom: 25px;">Get involved with the WWU CS community by being a leader.</h3>
+                </div>
+            </div>
+            <p class="col-lg-10 col-lg-offset-1 text-muted">We are restructuring the ACM at WWU and would love to have your help and involvement. This is a great opportunity for you to be more closely involved with the WWU CS community and have an impact on the events and opportunities we bring to the department. These leadership opportunities also give you an edge on your resume and help build up your professional skill set.</p>
+            <br>
+            <p class="col-lg-10 col-lg-offset-1 text-muted">There are multiple ACM Officer positions open for the upcoming year. If you are interested or know someone who would be a good fit for the position, please let us know by emailing the ACM at <a href="mailto:acm.wwu@gmail.com">acm.wwu@gmail.com</a> <b>before February 15th</b>. If more than one candidate is interested in a position we will hold a member election via online survey.</i></p>
+            <br>
+            <p class="col-lg-10 col-lg-offset-1 text-muted"><em>Please note - you are not eligible for a position if you are graduating before Spring 2017. If there are multiple people interested in a position we will have a Member Election via online survey after February 15th.</p>
+            <bir>
+            <br>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-heading">Available Positions</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Chair</h4>
+                    <p class="text-muted">The Chair is the principle officer and is responsible for leading the chapter, managing its activities, and presiding at member meetings. The Chair's responsibilities include managing the ACM email account and the Chapter ACM Interface, as well as adding members and officers. The Chair drives the club's vision and ensures the club is fulfilling its duties to both the National ACM and to the students it serves.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Vice Chair</h4>
+                    <p class="text-muted">The Vice Chair presides at meetings in absence of the Chair, assists the Chair in the management of the Chapter, and performs other duties as assigned. The Vice Chair is also responsible for maintaining the cleanliness of the ACM lounge, and reporting if anything (soap, napkins, plates, appliances, etc.) is needed in the lounge at any time. These actions may be delegated to other members at the Vice Chair's discretion.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-usd fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Treasurer</h4>
+                    <p class="text-muted">The Treasurer maintains the chapter's financial records, collects dues, pays bills, and maintains records for the chapter, in addition to ensuring the ACM Lounge's snack cupboard is filled while keeping track of the balance being paid towards snacks.</p>
+                </div>
+                <br>
+                <br>
+                <div class="col-md-10 col-md-offset-1">
+                    <h3 class="section-subheading text-muted">The chair, vice-chair, and treasurer will work together to prepare the chapter's annual report.</h4>
+                </div>
+                <br>
+                <br>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Events Coordinator</h4>
+                    <p class="text-muted">The Events Coordinator drives event planning for ACM specific events and assists in the planning of joint ACM/AWC events. The Events Coordinator updates the club calendar and corresponds with Mary Tully to ensure that ACM events are scheduled on the departmental calendar. Working closely with the ACM/AWC Activities Team, the Events Coordinator prints and distributes fliers for upcoming events and reaches out to companies and individuals to bring new ideas and people to the department.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-comments fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Social Media Coordinator</h4>
+                    <p class="text-muted">The Social Media Coordinator is responsible for the ACM's social media presence (Facebook, Twitter, Slack). They create content, respond to comments, answer questions, and post events. The Social Media Coordinator's role is to obtain new members through social media outreach while being a resource to existing members.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Secretary</h4>
+                    <p class="text-muted">The Secretary will keep meeting notes of both member and officer meetings and will distribute meeting minutes to all ACM members following each meeting.</p>
+                </div>
+                <br>
+            </div>
+            <br>
+            <br>
+            <div class="col-md-10 col-md-offset-1">
+                <h4 class="service-heading" style="text-align: center;">Please let us know if you have any questions/comments at <a href="mailto:acm.wwu@gmail.com">acm.wwu@gmail.com</a>. We look forward to hearing from you.</h4>
+            </div>
+        </div>
+    </section>
+  -->
+
+
+    <!-- Team Section
+
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Leadership Team</h2>
+                    <h3 class="section-subheading text-muted">That makes all this happen</h3>
+    -->
+<!--
+		    <span>
+		      The club is ran by an ever-growing team of enthusiastic and
+		      motivated officers. If you're interested in working with us in any capacity
+		      (officers, outside presenters, etc), please email us at
+		      <a href="mailto:acm.wwu@gmail.com">acm.wwu@gmail.com</a>.
+		    </span>
+                </div>
+            </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/Ello.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Ken</h4>
+                        <p class="text-muted">Chair</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/Ello.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Ryan</h4>
+                        <p class="text-muted">Co-Chair</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/Ello.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Ducky</h4>
+                        <p class="text-muted">Treasurer</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/Ello.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Daniel</h4>
+                        <p class="text-muted">Secretary</p>
+                    </div>
+                </div>
+	    </div>
+
+	</div>
+    </section>
+-->
+
+	<!-- Join Section -->
+<!--
+    <section id="joinUS">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Joining the ACM WWU Chapter</h2>
+                    <br>
+                    <h4>Send us an email at <a href="mailto:acm.wwu@gmail.com">acm.wwu@gmail.com</a> with your full name and W number.</h4>
+                    <br>
+                    <br>
+                    <br>
+                    <h2 class="section-heading">Joining the National ACM</h2>
+                    <br>
+                    <p class="col-lg-10 col-lg-offset-1 text-muted">While it is no longer required for our students to join the national ACM to be part of our local chapter at WWU, it is highly encouraged for our active members to take advantage of this wonderful resource. Please see below for details on the benefits of joining and how to join!</p>
+                    <br>
+                    <br>
+                    <br>
+                    <h3>Benefits of Joining the National ACM</h3>
+                    <div class="col-lg-8 col-lg-offset-2 text-left">
+                        <ul class="text-muted" style="list-style-type:square;list-style-position:inside">
+                            <li>Great membership to put on your résumé (nationally recognized by employers)</li>
+                            <li>Provides exclusive access to tech news, papers, and networking resources</li>
+                            <li>Excellent resource for finding jobs and internships</li>
+                            <li>Access to a vast network of over 100,000 highly dedicated student and professional peers</li>
+                            <li><a href="https://www.acm.org/membership/student/benefits"><u>Full list of benefits here</u></a></li>
+                        </ul>
+                    </div>
+                    <br>
+                    <div class="col-lg-12">
+                        <h4>Cost: $19 annually for student membership</h4>
+                        <br>
+                        <h3>How to Join</h3>
+                    </div>
+                    <br>
+                    <div class="col-lg-8 col-lg-offset-2 text-left">
+                        <ul class="text-muted" style="list-style-type:square;list-style-position:inside">
+                            <li>Follow this link: <a href="http://www.acm.org/membership/student/student-toc"><u>http://www.acm.org/membership/student/student-toc</u></a></li>
+                            <li>Fill out your personal information</li>
+                            <li>Choose a payment option and complete your membership</li>
+                            <li>Please send us an email at <a href="mailto:acm.wwu@gmail.com"><u>acm.wwu@gmail.com</u></a> with your full name, W number, and ACM member number so we can add you to our chapter's official national roster</li>
+                        </ul>
+                    </div>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </section>
+-->
+    <div id="get" class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-15">
+                            <ul class="list-inline social-buttons">
+                                <li><a href ="https://twitter.com/acmatwwu"></a>
+                                </li>
+                                <li><a href="https://www.facebook.com/groups/wwuacm/"></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <!--<footer>-->
+    <!--</footer>-->
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+
+</body>
+
+</html>
